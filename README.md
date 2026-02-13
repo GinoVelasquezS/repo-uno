@@ -1,4 +1,4 @@
-# learning
+# repositorio uno 
 Primer repo creado por gitHub
 
 ## descripción
